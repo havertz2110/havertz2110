@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Some tags:
+- PA = Personal Project
+- AFA = Assignment Final Project
+
+
 <!--
 **havertz2110/havertz2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
