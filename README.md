@@ -2,7 +2,7 @@
 
 Some tags:
 - PA = Personal Project
-- AFA = Assignment Final Project
+- SAFA = School Assignment Final Project
 - CA = Competition Project
 
 
