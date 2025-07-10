@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi 
 Some tags:
 - PA = Personal Project
 - SAFA = School Assignment Final Project
