@@ -1,8 +1,8 @@
 ## Hi 
 Some tags:
-- PA = Personal Project
-- SAFA = School Assignment Final Project
-- CA = Competition Project
+- PP = Personal Project
+- SP = School Project
+- CP = Competition Project
 
 
 <!--
