@@ -1,9 +1,5 @@
 ## Hi 
-Some tags:
-- PP = Personal Project
-- SP = School Project
-- CP = Competition Project
-
+about to change more
 
 <!--
 **havertz2110/havertz2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
